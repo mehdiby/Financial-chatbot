@@ -1,0 +1,20 @@
+[
+  {
+    "tag_name": "entity",
+    "ids_to_tags": {
+      "1": "B-coin",
+      "2": "I-coin",
+      "3": "L-coin",
+      "4": "U-coin",
+      "0": "O"
+    },
+    "tags_to_ids": {
+      "B-coin": 1,
+      "I-coin": 2,
+      "L-coin": 3,
+      "U-coin": 4,
+      "O": 0
+    },
+    "num_tags": 5
+  }
+]

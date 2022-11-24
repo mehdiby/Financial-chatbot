@@ -1,0 +1,12 @@
+version: "3.1"
+
+rules:
+
+- rule: tell the price of a given currency
+  steps:
+  - intent: inquire_coin_price
+  - action: action_give_coin_price 
+- rule: tell the price of a given stock
+  steps:
+  - intent: inquire_stock_price
+  - action: action_give_stock_price 

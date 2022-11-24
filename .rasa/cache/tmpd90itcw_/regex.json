@@ -1,0 +1,10 @@
+[
+  {
+    "name": "coin",
+    "pattern": "(\\bafghani\\b|\\blek\\b|\\bdinar\\b|\\bEuro\\b|\\bkwanza\\b|\\bEast\\ Caribbean\\ dollar\\b|\\bArgentine\\ peso\\b|\\bArmenian\\ dram\\b|\\bAustralian\\ dollar\\b|\\bAzerbaijani\\ manat\\b|\\bmanat\\b|\\bBahamian\\ dollar\\b|\\bdollar\\b|\\bBahraini\\ dinar\\b|\\bBangladeshi\\ taka\\b|\\btaka\\b|\\bBarbadian\\ dollar\\b|\\bBelarusian\\ ruble\\b|\\bBelize\\ dollar\\b|\\bfranc\\b|\\bngultrum\\b|\\bboliviano\\b|\\bpula\\b|\\bBrazilian\\ real\\b|\\bBrunei\\ dollar\\b|\\blev\\b|\\briel\\b|\\bChilean\\ peso\\b|\\bCanadian\\ dollar\\b|\\bChinese\\ yuan\\b|\\byuan\\b|\\byen\\b|\\bkuna\\b|\\bcolon\\b|\\bkoruna\\b|\\bpound\\b|\\bnakfa\\b|\\bquetzal\\b|\\bbitcoin\\b|\\blite\\b|\\bethereum\\b|\\bdogecoin\\b|\\biCoin\\b|\\bEnigma\\b|\\bReddcoin\\b|\\bBytecoin\\b|\\blisk\\b|\\bDash\\b|\\bDigibyte\\b|\\bAlgerian\\ dinar\\b|\\bdirham\\b|\\balgerian\\ dinar\\b|\\bicoin\\b|\\bdash\\b|\\bdigibyte\\b|\\bbytecoin\\b|\\benigma\\b|\\breddcoin\\b|\\blira\\b|\\bbitcoin\\b)"
+  },
+  {
+    "name": "stock",
+    "pattern": "(\\bApple\\b|\\bapple\\b|\\bAramco\\b|\\baramco\\b|\\bMicrosoft\\b|\\bmicrosoft\\b|\\bamazon\\b|\\bAlphabet\\b|\\balphabet\\b|\\bFacebook\\b|\\bfacebook\\b|\\btencent\\b|\\btesla\\b|\\balibaba\\b|\\btoyota\\b|\\bsamsung\\b|\\bnokia\\b|\\bGM\\b|\\bbmw\\b|\\bgm\\b|\\baudi\\b|\\bfizer\\b|\\bspacex\\b|\\brasa\\b|\\bdeepmind\\b|\\bairbus\\b|\\bford\\b|\\bmacdonalds\\b|\\bstarbucks\\b|\\badidas\\b|\\bpuma\\b|\\bgoogle\\b|\\byahoo\\b|\\btwitter\\b|\\bnvidia\\b|\\bdell\\b|\\bmsi\\b|\\bhp\\b|\\basus\\b|\\bpeugeot\\b|\\brenault\\b|\\bnetflix\\b|\\bburger\\ king\\b|\\boreedoo\\b|\\borange\\b|\\bvodaphone\\b|\\bspotify\\b|\\bairbnb\\b|\\bubisoft\\b|\\briot\\b|\\brockstar\\b|\\bea\\ sports\\b|\\bsteam\\b|\\borigin\\b|\\bskype\\b|\\bviber\\b|\\bwix\\b)"
+  }
+]

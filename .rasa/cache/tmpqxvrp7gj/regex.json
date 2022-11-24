@@ -1,0 +1,6 @@
+[
+  {
+    "name": "coin",
+    "pattern": "(\\bafghani\\b|\\blek\\b|\\bdinar\\b|\\bEuro\\b|\\bkwanza\\b|\\bEastCaribbeandollar\\b|\\bArgentinepeso\\b|\\bArmeniandram\\b|\\bAustraliandollar\\b|\\bAzerbaijanimanat\\b|\\bmanat\\b|\\bBahamiandollar\\b|\\bdollar\\b|\\bBahrainidinar\\b|\\bBangladeshitaka\\b|\\btaka\\b|\\bBarbadiandollar\\b|\\bBelarusianruble\\b|\\bBelizedollar\\b|\\bfranc\\b|\\bngultrum\\b|\\bboliviano\\b|\\bpula\\b|\\bBrazilianreal\\b|\\bBruneidollar\\b|\\blev\\b|\\briel\\b|\\bChileanpeso\\b|\\bCanadiandollar\\b|\\bChineseyuan\\b|\\byuan\\b|\\byen\\b|\\bkuna\\b|\\bcolon\\b|\\bkoruna\\b|\\bpound\\b|\\bnakfa\\b|\\bquetzal\\b|\\bbitcoin\\b|\\blite\\b|\\bethereum\\b|\\bdogecoin\\b|\\biCoin\\b|\\bEnigma\\b|\\bReddcoin\\b|\\bBytecoin\\b|\\blisk\\b|\\bDash\\b|\\bDigibyte\\b)"
+  }
+]
