@@ -52,4 +52,4 @@ This will start the chatbot server on port 5005 and enable the API.
 
 Next, open the `index.html` file in your web browser. This will load the web interface for the chatbot. Type your message in the text box and press the "Send" button to chat with the bot. Try asking it for financial data, such as:
 
-| ![Demo](images/1.png) | ![Demo](images/2.png) | ![Demo](images/3.png) |
+| ![Demo](images/1.PNG) | ![Demo](images/2.PNG) | ![Demo](images/3.PNG) |
